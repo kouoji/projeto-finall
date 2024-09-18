@@ -18,7 +18,7 @@ for (let a = 0; a <= valor; a++) {
 
 // * Switch = "Troca"
 function pedir() {
-  let escolha = parseInt(prompt("Digite o número do seu pedido:"));
+  let escolha = Number(prompt("Digite o número do seu pedido:"));
 
   switch (escolha) {
     case 1:
