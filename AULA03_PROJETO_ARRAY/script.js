@@ -15,7 +15,7 @@ console.log(lista.indexOf("alunos4"));
 lista[0] = "Asdrubal";
 console.log(lista);
 
-//adcionar um elemento no array
+//adicionar um elemento no array
 lista.push("alunos4");
 console.log(lista);
 
